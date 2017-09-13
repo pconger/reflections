@@ -1,0 +1,17 @@
+Q:
+What happens when you initialize a repository? Why do you need to do it?
+A:
+A git directory is created.
+I need to do it to be able to commit my files.
+
+Q:
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:
+The staging area has files that will be committed,
+whereas the working directory has all the files I'm working on,
+and the repository has all the file versions that have been committed.
+
+Q:
+How can you use the staging area to make sure you have one commit per logical change?
+A:
+I can run the git diff --staged command to compare the files in my staging area to the most recent commit.
