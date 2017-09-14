@@ -20,3 +20,9 @@ Q:
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A:
 When I want to try building alternative versions of my project.
+
+Q:
+How do the diagrams help you visualize the branch structure?
+A:
+I can see how the branches relate to each other
+and see parents for each branch.
