@@ -32,3 +32,9 @@ What is the result of merging two branches together? Why do we represent it in t
 A:
 Changes made in two branches are fused together into one branch.
 The two literally come together.
+
+Q:
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A:
+Git uses strong logic to apply changes to the merged branch.
+When there's a conflict I can make sure the appropriate changes are kept.
